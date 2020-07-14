@@ -5,4 +5,4 @@ Includes C# unit test project and some sample classes to test.
 
 Install dotnet https://dotnet.microsoft.com/download
 
-To run tests, use `dotnet run`.
+To run tests, use `dotnet test`.
