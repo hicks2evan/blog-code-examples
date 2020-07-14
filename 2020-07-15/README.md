@@ -1,4 +1,4 @@
 # 2020-07-15
-Code example from <insert link to post>
+Code example from http://hicks2evan.github.io/2020/07/15/are-you-moqing-me/
 
-Any other notes you might have about these code examples in particular.
+Includes dotnet project for...
