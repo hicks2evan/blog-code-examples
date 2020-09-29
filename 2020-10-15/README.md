@@ -9,5 +9,5 @@ Pull that repo to run it yourself.
 
 ## What is, 'database'?
 1. Set up MySQL on your local https://dev.mysql.com/doc/mysql-getting-started/en/
-2. Use favorite tool to load db from `jeopardy_db.sql` in this directory
+2. Use favorite tool to decompress and load db from `jeopardy_db.sql.zip` in this directory
 3. Make sure to create a user and give them permissions to the added database, my Jupyter notebook uses a user with these credentials: service/jeopardy! and allows local connections only
